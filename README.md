@@ -6,6 +6,22 @@ URL: http://ec2-18-222-7-210.us-east-2.compute.amazonaws.com
 IP: `18.222.7.210`
 SSH port: `2200`
 
+# 3rd Party Resources Used
+- [Python]([https://www.python.org/)
+- [Apache2](https://help.ubuntu.com/lts/serverguide/httpd.html)
+- [mod_wsgi](https://modwsgi.readthedocs.io/en/develop/)
+- [PostgeSQL](https://www.postgresql.org/)
+- [Flask](http://flask.pocoo.org/)
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+- [Pip](https://pypi.org/project/pip/)
+- [OAuth2Client](https://oauth2client.readthedocs.io/en/latest/)
+- [Requests](http://docs.python-requests.org/en/master/)
+- [Git](https://git-scm.com/)
+- [Facebook API](https://developers.facebook.com/)
+- [Google API](https://developers.google.com/)
+- [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+- [Ubuntu](https://www.ubuntu.com/)
+
 # Server Configuration Settings
 
 ## Update installed packages
